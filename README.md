@@ -1,2 +1,2 @@
-# swissrole
+# swissroll
 ddpm_swissroll
